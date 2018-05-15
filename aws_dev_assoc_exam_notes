@@ -1,9 +1,19 @@
-Lecture 1
-===========
-In order to get started following will be required -
-AWS Free Tier Account is required 
+Section 1:
 
-Lecture 2
-==========
+    Lecture 1
+    ===========
+    In order to get started following will be required -
+    AWS Free Tier Account is required 
 
-There is lot of overlap between AWS Developer Associate Exam and AWS Architect Associate Exam.
+    Lecture 2
+    ==========
+
+    There is lot of overlap between AWS Developer Associate Exam and AWS Architect Associate Exam.
+
+    Lecture 4
+    ==========
+    Exam Blueprint:
+    Fundamentals              10
+    Desiging and Developing   40
+    Deploying and Security    30
+    Debugging                 20
